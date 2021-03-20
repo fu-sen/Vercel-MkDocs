@@ -1,5 +1,7 @@
 # Vercel-MkDocs
 
+MkDocs with ▲Vercel (minimal configuration)
+
 <https://github.com/fu-sen/Vercel-MkDocs>
 
 - [▲ Vercel](https://vercel.com/)
