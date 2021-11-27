@@ -13,3 +13,12 @@
 or commit to a Git project: `git push`
 
 You do not need to change the `Build & Development Settings` item.
+
+## Build error
+
+Many of the build error errors are that you mistyped `mkdocs.yml`
+or you forgot to add the package to` requirements.txt`.
+Check the file change immediately before the error occurred.
+
+This is often not a problem with this project.
+You should not open an issue for that.
