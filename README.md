@@ -27,5 +27,5 @@ You should not open an issue for that.
 
 If you fork this project and `git push` in conjunction with Vercel
 Vercel will also notify me [@fu-sen](https://github.com/fu-sen) .
-If you try this, generate it as a separate project that is **NOT FORK\**,
+If you try this, generate it as a separate project that is **NOT FORK**,
 Or build and deploy using the [Vercel CLI](https://vercel.com/docs/cli) without generating a GitHub repository.
