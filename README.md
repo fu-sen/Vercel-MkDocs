@@ -22,3 +22,10 @@ Check the file change immediately before the error occurred.
 
 This is often not a problem with this project.
 You should not open an issue for that.
+
+## Fork of this project
+
+If you fork this project and `git push` in conjunction with Vercel
+Vercel will also notify me [@fu-sen](https://github.com/fu-sen) .
+If you try this, generate it as a separate project that is **NOT FORK\**,
+Or build and deploy using the [Vercel CLI](https://vercel.com/docs/cli) without generating a GitHub repository.
