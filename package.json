@@ -4,9 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "mkdocs serve",
-    "build": "mkdocs build -d public"
-  },
-  "engines": {
-    "node": "18.x"
+    "build": "python3 -m mkdocs build -d public"
   }
 }
