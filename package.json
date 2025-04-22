@@ -5,5 +5,8 @@
   "scripts": {
     "dev": "mkdocs serve",
     "build": "mkdocs build -d public"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
