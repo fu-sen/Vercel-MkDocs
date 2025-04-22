@@ -18,6 +18,10 @@ You do not need to change the `Build & Development Settings` item.
 
 ## Build error
 
+If you've recently encountered a build error that was working fine before:
+
+https://github.com/mkdocs/mkdocs/discussions/3964#discussioncomment-12910071
+
 Many of the build error are that you mistyped `mkdocs.yml`
 or you forgot to add the package to` requirements.txt`.
 Check the file change immediately before the error occurred.
